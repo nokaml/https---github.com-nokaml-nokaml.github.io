@@ -39,10 +39,6 @@ body {
   color: #505050;
 }
 
-.header-container a:link, a:active {
-  color: blue;
-  text-decoration: none;
-}
 
 .grid-container {
   margin: 3rem;
